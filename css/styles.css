@@ -1,0 +1,12 @@
+.best {
+  font-weight: bold;
+}
+
+.flashy {
+  font-style: italic;
+  color: red;
+}
+
+* {
+  background-color: lightpink;
+}
